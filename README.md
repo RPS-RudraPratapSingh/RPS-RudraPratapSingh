@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RPS-RudraPratapSingh
 - 👀 I’m interested in coding challenges or something helping to others
-- 🌱 I’m currently learning Rust, JavaScript
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on any projects that challenges me and help me think more 
-- 📫 How to reach me (Dont reach me yet)
+- 📫 How to reach me singhrudrapratap308@gmail.com
 - 😄 Pronouns: The Coder 
 - ⚡ Fun fact: Coding is fun
 
